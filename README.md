@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Chinwoke Anugwara</h1>
 <h3 align="center">A passionate Backend Software Engineer</h3>
 
-- 🔭 I’m currently working on [sabre-mart](https://github.com/Chinwoke-C/sabre-mart)
 
 - 🌱 I’m currently learning **Cloud DevOps Engineering**
 
