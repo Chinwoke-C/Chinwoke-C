@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [sabre-mart](https://github.com/Chinwoke-C/sabre-mart)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Cloud DevOps Engineering**
 
 - 👯 I collaborated on [Class](https://github.com/caards000/class-api)
 
-- 🤝 I have interest in **Cloud Engineering**
+- 🤝 I have interest in **Platform Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chinwoke-C](https://github.com/Chinwoke-C)
 
