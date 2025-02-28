@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Chinwoke Anugwara</h1>
 <h3 align="center">A passionate Software Engineer that specializes in AI, Cloud and Software Developement</h3>
 
-- 👯 I collaborated on [Class](https://github.com/caards000/class-api)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Chinwoke-C](https://github.com/Chinwoke-C)
 
 - 📫 Contact me at **chinwokeanugwara@gmail.com**
