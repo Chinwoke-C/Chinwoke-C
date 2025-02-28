@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQF-3obJr9PIGQ/profile-displaybackgroundimage-shrink_350_1400/0/1669486538245?e=1696464000&v=beta&t=W0bjS2asC0rC_qndj-dbqo2ET1Rbdipohn9LWV7kwwc)](https://www.linkedin.com/in/chinwoke-anugwara/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Chinwoke Anugwara</h1>
-<h3 align="center">A passionate Backend Software Engineer that specializes in platform, cloud and devops technology</h3>
+<h3 align="center">A passionate Software Engineer that specializes in AI, Cloud and Software Developement</h3>
 
 - 👯 I collaborated on [Class](https://github.com/caards000/class-api)
 
